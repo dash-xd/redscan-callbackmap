@@ -1,4 +1,4 @@
-package callbacks
+package callbackmap
 
 import (
 	"context"
